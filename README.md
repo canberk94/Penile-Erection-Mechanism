@@ -7,4 +7,4 @@ Compliance and resistance values of vascular elements (input parameters) are fed
 [ ICP, Vcorp, Vven ] = F (Csa, Csv, Ccav, Ccorp, Cven, Rsys, Rhel, Rcav, R(pv,out), Rout)
 
 and intracavernosal pressure (ICP), corporeal and penile venule volumes are calculated (Vcorp and Vven, respectively) for the various erection phases of erectile dysfunction patients. 
-Description of all input parameters and output variables are given in the m-file. An example parameter set for a patient is also can be found in the erection_model m-file.
+Description of all input parameters and output variables are given in the files. An example parameter set for a patient is also can be found in the erection_model m-file.
